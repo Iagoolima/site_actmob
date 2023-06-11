@@ -1,162 +1,163 @@
 @media screen and (max-width:1444px) {
-   main{
-    padding-top: 5rem;
-   }
+    main {
+        padding-top: 5rem;
+    }
 }
 
 @media screen and (max-width:1444px) {
-   main{
-    padding-top: 4rem;
-   }
-   #s_one,
-   .carousel-one {
-       width: 100%;
-       height: auto
-   }
+    main {
+        padding-top: 4rem;
+    }
 
-   .title_top_one {
-      
-      width: 60%;
-      font-size: 1.4em;
-  }
-  
-  .title_one {
-  
-      width: 80%;
-      font-size: 3em;
-  }
-  
-  .subTitle_one {
-    
-      width: 60%;
-      font-size: 1em;
-  }
-  
-  .button_one {
-      width: 15rem;
-      height: 3rem;
-      font-size: 1.5em;
+    #s_one,
+    .carousel-one {
+        width: 100%;
+        height: auto
+    }
 
-  }
+    .title_top_one {
+        width: 60%;
+        font-size: 1.4em;
+    }
+
+    .title_one {
+        width: 80%;
+        font-size: 3em;
+    }
+
+    .subTitle_one {
+
+        width: 60%;
+        font-size: 1em;
+    }
+
+    .button_one {
+        width: 15rem;
+        height: 3rem;
+        font-size: 1.5em;
+
+    }
 }
 
 @media screen and (max-width:1280px) {
-   .title_top_one {
-      
-      width: 80%;
-      font-size: 1.3em;
-  }
-  
-  .title_one {
-  
-      width: 90%;
-      font-size: 2.5em;
-  }
-  
-  .subTitle_one {
-    
-      width: 70%;
-      font-size: 1em;
-  }
-  
-  .button_one {
-      width: 15rem;
-      height: 3rem;
-      font-size: 1.3em;
+    .title_top_one {
+        width: 80%;
+        font-size: 1.3em;
+    }
 
-  }
+    .title_one {
+        width: 90%;
+        font-size: 2.5em;
+    }
+
+    .subTitle_one {
+
+        width: 70%;
+        font-size: 1em;
+    }
+
+    .button_one {
+        width: 15rem;
+        height: 3rem;
+        font-size: 1.3em;
+
+    }
 }
+
 @media screen and (max-width:768px) {
 
-   .title_top_one {
-      
-      width: 80%;
-      font-size: 1.2em;
-  }
-  
-  .title_one {
-  
-      width: 100%;
-      font-size: 2em;
-  }
-  
-  .subTitle_one {
-    
-      width: 70%;
-      font-size: 0.9em;
-  }
-  
-  .button_one {
-      width: 14rem;
-      height: 3rem;
-      font-size: 1.1em;
+    .title_top_one {
 
-  }
- 
+        width: 80%;
+        font-size: 1.2em;
+    }
+
+    .title_one {
+
+        width: 100%;
+        font-size: 2em;
+    }
+
+    .subTitle_one {
+
+        width: 70%;
+        font-size: 0.9em;
+    }
+
+    .button_one {
+        width: 14rem;
+        height: 3rem;
+        font-size: 1.1em;
+
+    }
+
 }
 
 @media screen and (max-width:600px) {
 
-   .title_top_one {
-      
-      width: 100%;
-      font-size: 1em;
-  }
-  .carousel-caption {
+    .title_top_one {
 
-   width: 100;
-  }
-  
-  .title_one {
-  
-      width: 100%;
-      font-size: 1.5em;
-  }
-  
-  .subTitle_one {
-    
-      width: 100%;
-      font-size: 0.8em;
-      line-height: 14px;
-  }
-  
-  .button_one {
-      width: 10rem;
-      height: 2rem;
-      font-size: 0.9em;
+        width: 100%;
+        font-size: 1em;
+    }
 
-  }
- 
+    .carousel-caption {
+
+        width: 100;
+    }
+
+    .title_one {
+
+        width: 100%;
+        font-size: 1.5em;
+    }
+
+    .subTitle_one {
+
+        width: 100%;
+        font-size: 0.8em;
+        line-height: 14px;
+    }
+
+    .button_one {
+        width: 10rem;
+        height: 2rem;
+        font-size: 0.9em;
+
+    }
+
 }
+
 @media screen and (max-width:425px) {
 
-   .title_top_one {
-      
-      width: 100%;
-      font-size: 0.9em;
-  }
-  .carousel-caption {
-   padding-top: 10%;
-   width: 100;
-  }
-  
-  .title_one {
-  
-      width: 100%;
-      font-size: 1.3em;
-  }
-  
-  .subTitle_one {
+    .title_top_one {
 
-      font-size: 0.7em;
-      
-  }
-  
-  .button_one {
-      width: 10rem;
-      height: 2rem;
-      font-size: 0.8em;
+        width: 100%;
+        font-size: 0.9em;
+    }
 
-  }
- 
+    .carousel-caption {
+        padding-top: 10%;
+        width: 100;
+    }
+
+    .title_one {
+
+        width: 100%;
+        font-size: 1.3em;
+    }
+
+    .subTitle_one {
+
+        font-size: 0.7em;
+
+    }
+
+    .button_one {
+        width: 10rem;
+        height: 2rem;
+        font-size: 0.8em;
+
+    }
+
 }
