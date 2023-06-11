@@ -7,10 +7,31 @@
     
 #myCarousel2, .carousel_s_four {
     height: 100%;
-    padding: 2%;
+    padding: 3%;
 }
 .carrosel_center {
     margin-bottom: 3rem;
 }
         
+}
+
+@media screen and (max-width:525px) {
+.card-body p {
+    font-size: .9em;
+}
+
+.box_card_title_s_four {
+    padding-left: 3%;
+}
+
+.title_card_s_four h2 {
+    font-size: 1.2em;
+    font-family: 'Geologica', sans-serif;
+    font-weight: 500;
+
+}
+
+.title_card_s_four p {
+    font-size: 1em;
+}
 }
