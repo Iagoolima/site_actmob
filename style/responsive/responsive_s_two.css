@@ -1,0 +1,144 @@
+@media screen and (max-width:1780px) {
+    .container_right_two{
+        gap: 2rem;
+        padding: 3% 3%;
+    }
+    .container_right_two h1{
+        color: rgb(78, 78, 78);
+        font-family: 'Geologica', sans-serif;
+        font-weight: 600;
+        width: 95%;
+        font-size: 2.5em;
+    
+    }
+
+    .container_right_two p{
+        color: rgb(75, 75, 75);
+        font-family: 'Geologica', sans-serif;
+        font-weight: 300;
+        width: 95%;
+        font-size: 1em;
+    
+    }
+}
+
+@media screen and (max-width:1444px) {
+    .container_right_two{
+        gap: 2rem;
+        padding: 3% 3%;
+    }
+    .container_right_two h1{
+        color: rgb(78, 78, 78);
+        font-family: 'Geologica', sans-serif;
+        font-weight: 600;
+        width: 95%;
+        font-size: 2.4em;
+    
+    }
+
+    .container_right_two p{
+        color: rgb(75, 75, 75);
+        font-family: 'Geologica', sans-serif;
+        font-weight: 300;
+        width: 95%;
+        font-size: 0.9em;
+    
+    }
+    .box_button_two{
+        margin-top: 0rem;
+    }
+
+    .btn_saiba_mais{
+        
+        width: 15rem;
+        
+        font-size: 1.1em;
+        
+    }
+    .btn_central{
+      
+        width: 24rem;
+        
+        font-size: 1.1em;
+       
+    }
+}
+
+@media screen and (max-width:1280px) {
+
+    #s_two{
+        flex-direction: column-reverse;
+        height: auto;
+    }
+    .container_left_two{
+        width: 100%;
+        height: 30rem;
+    }
+    .container_right_two{
+        width: 100%;
+        gap: 2rem;
+        padding: 3% 3%;
+    }
+    .container_right_two h1{
+        color: rgb(78, 78, 78);
+        font-family: 'Geologica', sans-serif;
+        font-weight: 600;
+        width: 95%;
+        font-size: 2.4em;
+    
+    }
+
+    .container_right_two p{
+        color: rgb(75, 75, 75);
+        font-family: 'Geologica', sans-serif;
+        font-weight: 300;
+        width: 95%;
+        font-size: 0.9em;
+    
+    }
+    .box_button_two{
+        margin-top: 0rem;
+    }
+
+    .btn_saiba_mais{
+        
+        width: 15rem;
+        
+        font-size: 1.1em;
+        
+    }
+    .btn_central{
+      
+        width: 24rem;
+        
+        font-size: 1.1em;
+       
+    }
+}
+
+@media screen and (max-width:768px) {
+    .container_right_two h1{
+        font-size: 1.5em;
+    }
+    .box_button_two{
+        gap: 1rem;
+    }
+
+    .btn_saiba_mais, .btn_central {
+        width: 100%;
+        font-size: 1em;
+        gap: 0.5rem;
+    }
+    .container_left_two{
+        width: 100%;
+        height: 20rem;
+    }
+}
+
+
+
+
+
+
+
+

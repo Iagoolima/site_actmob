@@ -1,0 +1,39 @@
+@media screen and (max-width:1280px) {
+    #myCarousel{
+        width: 70%;
+    }
+}
+
+@media screen and (max-width:1024px) {
+    #myCarousel{
+        width: 80%;
+    }
+}
+@media screen and (max-width:768px) {
+#s_three{
+    height: auto;
+    padding: 10% 0%;
+    
+}
+#myCarousel{
+    width: 90%;
+   
+}
+ .row{
+gap: 2rem;
+
+}
+
+.title_three{
+    width: 90%;
+}
+
+.title_three h1{
+   font-size: 1.4em
+}
+}
+
+
+
+
+

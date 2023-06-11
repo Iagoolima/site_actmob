@@ -1,0 +1,16 @@
+
+@media screen and (max-width:1440px) {
+    #s_four{
+        height: 100%;
+        padding-bottom: 2rem;
+    }
+    
+#myCarousel2, .carousel_s_four {
+    height: 100%;
+    padding: 2%;
+}
+.carrosel_center {
+    margin-bottom: 3rem;
+}
+        
+}

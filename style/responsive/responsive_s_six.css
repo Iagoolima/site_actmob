@@ -1,0 +1,163 @@
+@media screen and (max-width:1700px) {
+  
+#s_six{
+    padding: 4%;
+}
+.container_left_s_six, .container_right_s_six{
+    width: 45%;
+}
+
+
+    .container_left_s_six a{
+        padding-left: 3%;
+        margin-right: 3rem;
+        border-radius: 100px;
+        font-size: 1em;
+        font-weight: 300;
+        
+        
+    }
+    
+    .box_whats{
+        height: 4rem;
+        width: 4rem;
+        
+    }
+    
+    .box_whats svg{
+        width: 30px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width:1450px) {
+  
+    #s_six{
+        padding: 4%;
+    }
+    .container_left_s_six, .container_right_s_six{
+        width: 45%;
+    }
+    
+    
+        .container_left_s_six a{
+            width: 50%;
+            padding-left: 3%;
+            margin-right: 3rem;
+            border-radius: 100px;
+            font-size: 0.9em;
+            font-weight: 300;
+        }
+        
+    }
+
+    
+@media screen and (max-width:1280px) {
+  
+    
+    .container_left_s_six, .container_right_s_six{
+        width: 48%;
+    }
+
+    .container_left_s_five h1 {
+        color: var(--blueOne);
+        font-size: 2.2em;
+    }
+    .box_benefits p {
+        font-size: 1.3em;
+    }
+
+        
+    }
+
+    @media screen and (max-width:1100px) {
+        #s_six {
+            height: auto;
+            gap: 3rem;
+        }
+   
+        .container_left_s_six, .container_right_s_six{
+            width: 95%;
+        }
+
+        .container_left_s_six {
+            gap: 1.5rem;
+        }
+
+        .container_left_s_six h1 {
+            font-size: 1.8em;
+            width: 100%;
+
+            
+        }
+
+        .box_benefits{
+            font-size: 1.1em;
+        }
+    
+        .container_left_s_six a{
+            width: 17rem;
+            padding-left: 3%;
+        }
+
+        .container_right_s_six h1 {
+            color: white;
+            font-size: 1.4em;
+        }
+
+        form{
+            padding: 2% 0;
+        }
+            
+        }
+
+
+        
+    @media screen and (max-width:425px) {
+        #s_six {
+            height: auto;
+            gap: 3rem;
+        }
+   
+        .container_left_s_six, .container_right_s_six{
+            width: 100%;
+        }
+
+        .container_left_s_six {
+            gap: 1.5rem;
+        }
+
+        .container_left_s_six h1 {
+            font-size: 1.8em;
+            width: 100%;
+        }
+
+        .box_benefits p {
+            font-size: 1.1em;
+        }
+
+       
+    
+        .container_left_s_six a{
+            width: 14rem;
+            font-size: .8em;
+            height: 2rem;
+            padding-left: 3%;
+        }
+        .box_whats{
+            height: 3rem;
+            width: 3rem;
+            
+        }
+        
+        .box_whats svg{
+            width: 20px;
+            height: 20px;
+        }
+
+
+        form{
+            padding: 2% 0;
+        }
+            
+        }
