@@ -11,10 +11,13 @@
 }
 
 @media screen and (max-width:768px) {
-    #s_three {
+    #s_three_mobile{
+        display: flex;
         height: auto;
         padding: 10% 0%;
-
+    }
+    #s_three {
+    display: none;
     }
 
     #myCarousel {

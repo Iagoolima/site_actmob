@@ -30,6 +30,10 @@
   justify-content: center;
   align-items: center;
 }
+.box_img_header a{
+  text-decoration: none !important;
+  color: white;
+}
 
 .box_img_header a h1 {
   color: white;
