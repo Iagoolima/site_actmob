@@ -11,6 +11,9 @@
     #navigation_header {
         gap: 0rem;
     }
+     .button_header {
+        font-size: 0.7em;
+    } 
 }
 
 

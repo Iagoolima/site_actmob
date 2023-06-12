@@ -79,7 +79,7 @@
   transition: 0.8s;
   width: auto;
 
-  display: flex;
+  display: flex !important;
   justify-content: center;
   align-items: center;
   text-align: center;

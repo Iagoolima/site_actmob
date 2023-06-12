@@ -1,7 +1,18 @@
+@media screen and (max-width:1440px) {
+
+
+.box_client img {
+    height: 05rem;
+    width: 13rem;
+    object-fit: cover;
+    box-shadow: 1px 1px 10px rgb(97, 97, 97);
+}
+}
+
 @media screen and (max-width:1280px) {
 
     .box_title_five h1 {
-        font-size: 1.8em;
+        font-size: 1.5em;
     }
 
     .box_client img {

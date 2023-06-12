@@ -384,7 +384,7 @@ main {
 .card-body p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 1.1em;
-    text-align: justify;
+    text-align: left;
 }
 
 .card-body p span {

@@ -36,6 +36,7 @@
 
     #s_six {
         padding: 4%;
+        height: 41rem;
     }
 
     .container_left_s_six,
@@ -53,6 +54,25 @@
         font-weight: 300;
     }
 
+    .container_left_s_six h1 {
+    
+        font-size: 1.8em;
+    }
+    .box_benefits p {
+        font-size: 1.1em;
+    }
+
+
+    input {
+        height: 3rem;
+    }
+
+
+
+    #buttun_submit {
+       
+        height: 3.2rem;
+    }
 }
 
 

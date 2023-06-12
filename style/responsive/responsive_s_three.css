@@ -4,6 +4,13 @@
     }
 }
 
+@media screen and (max-width:1440px) {
+.card-title{
+    font-size: 1.5em;
+}
+
+}
+
 @media screen and (max-width:1024px) {
     #myCarousel {
         width: 80%;

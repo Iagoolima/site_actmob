@@ -13,6 +13,19 @@
     .carrosel_center {
         margin-bottom: 3rem;
     }
+    .title_card_s_four h2 {
+        font-size: 1.3em;
+        font-family: 'Geologica', sans-serif;
+        font-weight: 500;
+    
+    }
+    
+    .title_card_s_four p {
+        font-size: 1.2em;
+    }
+    .card-body p {
+        font-size: 1em;
+    }
 
 }
 
